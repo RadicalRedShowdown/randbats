@@ -1,0 +1,6 @@
+node_modules/
+extension/chrome/*.png
+extension/chrome/index.js
+extension/firefox/*.png
+extension/firefox/index.js
+extension/*.zip
