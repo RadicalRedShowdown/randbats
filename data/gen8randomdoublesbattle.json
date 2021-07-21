@@ -240,7 +240,7 @@
   "Greninja-Ash": {"level": 80, "abilities": ["Battle Bond"], "items": ["Life Orb"], "moves": ["Dark Pulse", "Hydro Pump", "Protect", "Water Shuriken"], "evs": {"atk": 0}, "ivs": {"atk": 0}},
   "Grimmsnarl": {"level": 82, "abilities": ["Prankster"], "items": ["Light Clay", "Sitrus Berry"], "moves": ["Darkest Lariat", "Fake Out", "Light Screen", "Reflect", "Spirit Break", "Taunt", "Thunder Wave"]},
   "Groudon": {"level": 76, "abilities": ["Drought"], "items": ["Sitrus Berry"], "moves": ["Heat Crash", "Precipice Blades", "Rock Polish", "Stone Edge", "Swords Dance"]},
-  "Groudon-Primal": {"level": 76, "abilities": ["Drought"], "items": ["Red Orb"], "moves": ["Fire Punch", "Precipice Blades", "Protect", "Rock Polish", "Rock Slide", "Stone Edge", "Swords Dance"]},
+  "Groudon-Primal": {"level": 73, "abilities": ["Drought"], "items": ["Red Orb"], "moves": ["Heat Crash", "Precipice Blades", "Protect", "Rock Polish", "Rock Slide", "Stone Edge", "Swords Dance"]},
   "Grumpig": {"level": 88, "abilities": ["Thick Fat"], "items": ["Light Clay", "Sitrus Berry"], "moves": ["Focus Blast", "Light Screen", "Protect", "Psychic", "Reflect", "Slack Off", "Taunt"], "evs": {"atk": 0}, "ivs": {"atk": 0}},
   "Gumshoos": {"level": 88, "abilities": ["Adaptability", "Stakeout"], "items": ["Sitrus Berry"], "moves": ["Crunch", "Protect", "Return", "Super Fang", "U-turn"]},
   "Guzzlord": {"level": 88, "abilities": ["Beast Boost", "Dark Aura"], "items": ["Assault Vest", "Choice Band", "Sitrus Berry"], "moves": ["Dragon Hammer", "Heat Crash", "Heavy Slam", "Knock Off", "Parting Shot", "Protect", "Sucker Punch"]},
