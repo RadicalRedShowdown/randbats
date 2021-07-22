@@ -284,7 +284,7 @@
   "Kartana": {"level": 81, "abilities": ["Beast Boost"], "items": ["Life Orb"], "moves": ["Cut", "Knock Off", "Leaf Blade", "Sacred Sword", "Swords Dance"]},
   "Kecleon": {"level": 88, "abilities": ["Protean"], "items": ["Assault Vest", "Sitrus Berry"], "moves": ["Drain Punch", "Fake Out", "Knock Off", "Protect", "Shadow Sneak", "Trick Room"], "evs": {"spe": 0}, "ivs": {"spe": 0}},
   "Keldeo": {"level": 82, "abilities": ["Justified"], "items": ["Choice Specs", "Life Orb", "Sitrus Berry"], "moves": ["Air Slash", "Calm Mind", "Icy Wind", "Muddy Water", "Protect", "Secret Sword"], "evs": {"atk": 0}, "ivs": {"atk": 0}},
-  "Kingdra": {"level": 87, "abilities": ["Sniper", "Swift Swim"], "items": ["Choice Scarf", "Choice Specs", "Life Orb"], "moves": ["Draco Meteor", "Hurricane", "Hydro Pump", "Ice Beam", "Muddy Water", "Rain Dance"], "evs": {"atk": 0}, "ivs": {"atk": 0}},
+  "Kingdra": {"level": 87, "abilities": ["Swift Swim"], "items": ["Choice Scarf", "Choice Specs", "Life Orb"], "moves": ["Draco Meteor", "Hurricane", "Hydro Pump", "Ice Beam", "Muddy Water", "Rain Dance"], "evs": {"atk": 0}, "ivs": {"atk": 0}},
   "Kingler": {"level": 87, "abilities": ["Sheer Force"], "items": ["Life Orb"], "moves": ["Agility", "Aqua Jet", "Close Combat", "Ice Hammer", "Knock Off", "Liquidation", "Protect"]},
   "Kingler-Mega": {"level": 82, "abilities": ["Hyper Cutter", "Sheer Force"], "items": ["Kinglerite"], "moves": ["Aqua Jet", "Close Combat", "Crabhammer", "Ice Hammer", "Meteor Mash", "Protect", "Swords Dance"]},
   "Klefki": {"level": 84, "abilities": ["Prankster"], "items": ["Sitrus Berry"], "moves": ["Dazzling Gleam", "Foul Play", "Spikes", "Thunder Wave"]},
