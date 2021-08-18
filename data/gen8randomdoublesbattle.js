@@ -484,7 +484,7 @@ var GEN8RANDOMDOUBLESBATTLE = {
   Sandslash: { level: 88, abilities: [ 'Sand Rush' ], items: [ 'Life Orb', 'Sitrus Berry' ], moves: [ 'Drill Run', 'Knock Off', 'Spiky Shield', 'Stealth Rock', 'Stone Edge', 'Swords Dance' ] },
   'Sandslash-Alola': { level: 88, abilities: [ 'Ice Scales', 'Slush Rush' ], items: [ 'Life Orb', 'Sitrus Berry' ], moves: [ 'Drill Run', 'Ice Shard', 'Iron Head', 'Spiky Shield', 'Swords Dance', 'Triple Axel' ] },
   Sawk: { level: 88, abilities: [ 'Contrary', 'Sturdy' ], items: [ 'Choice Band', 'Choice Scarf', 'Life Orb', 'Sitrus Berry' ], moves: [ 'Close Combat', 'Hammer Arm', 'Knock Off', 'Poison Jab', 'Protect', 'Rock Slide' ] },
-  Sawsbuck: { level: 88, abilities: [ 'Sap Sipper', 'Serene Grace' ], items: [ 'Life Orb', 'Sitrus Berry' ], moves: [ 'Earthquake', 'Horn Leech', 'Jump Kick', 'Protect', 'Return', 'Rock Slide', 'Swords Dance' ] },
+  Sawsbuck: { level: 88, abilities: [ 'Chlorophyll', 'Sap Sipper', 'Serene Grace' ], items: [ 'Life Orb', 'Sitrus Berry' ], moves: [ 'Earthquake', 'Horn Leech', 'Jump Kick', 'Protect', 'Return', 'Rock Slide', 'Swords Dance' ] },
   Sceptile: { level: 87, abilities: [ 'Unburden' ], items: [ 'Sitrus Berry' ], moves: [ 'Draco Meteor', 'Focus Blast', 'Hidden Power Fire', 'Leaf Storm', 'Protect' ], evs: { atk: 0 }, ivs: { atk: 0 } },
   'Sceptile-Mega': { level: 80, abilities: [ 'Unburden' ], items: [ 'Sceptilite' ], moves: [ 'Breaking Swipe', 'Bullet Seed', 'Dragon Dance', 'Protect' ] },
   Scizor: { level: 82, abilities: [ 'Technician' ], items: [ 'Choice Band', 'Life Orb', 'Sitrus Berry' ], moves: [ 'Bug Bite', 'Bullet Punch', 'Dual Wingbeat', 'Feint', 'Protect', 'Superpower', 'Swords Dance', 'U-turn' ] },

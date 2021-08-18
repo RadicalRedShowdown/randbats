@@ -501,7 +501,7 @@
   "Sandslash": {"level": 88, "abilities": ["Sand Rush"], "items": ["Assault Vest", "Leftovers", "Life Orb"], "moves": ["Earthquake", "Knock Off", "Rapid Spin", "Spikes", "Stone Edge"]},
   "Sandslash-Alola": {"level": 86, "abilities": ["Ice Scales", "Slush Rush"], "items": ["Assault Vest", "Leftovers", "Life Orb", "Lum Berry"], "moves": ["Earthquake", "Hail", "Iron Head", "Rapid Spin", "Spikes", "Swords Dance", "Triple Axel"]},
   "Sawk": {"level": 86, "abilities": ["Contrary", "Sturdy"], "items": ["Choice Band", "Choice Scarf"], "moves": ["Close Combat", "Earthquake", "Hammer Arm", "Knock Off", "Poison Jab", "Stone Edge"]},
-  "Sawsbuck": {"level": 88, "abilities": ["Sap Sipper"], "items": ["Life Orb"], "moves": ["Earthquake", "Horn Leech", "Return", "Sunny Day", "Swords Dance"]},
+  "Sawsbuck": {"level": 88, "abilities": ["Chlorophyll", "Sap Sipper"], "items": ["Life Orb"], "moves": ["Earthquake", "Horn Leech", "Return", "Sunny Day", "Swords Dance"]},
   "Sceptile": {"level": 88, "abilities": ["Overgrow"], "items": ["Choice Specs"], "moves": ["Draco Meteor", "Focus Blast", "Hidden Power Fire", "Leaf Storm"], "evs": {"atk": 0}, "ivs": {"atk": 0}},
   "Sceptile-Mega": {"level": 82, "abilities": ["Unburden"], "items": ["Sceptilite"], "moves": ["Bullet Seed", "Earthquake", "Scale Shot", "Swords Dance"]},
   "Scizor": {"level": 82, "abilities": ["Technician"], "items": ["Choice Band", "Life Orb"], "moves": ["Bug Bite", "Bullet Punch", "Knock Off", "Superpower", "Swords Dance", "U-turn"]},
