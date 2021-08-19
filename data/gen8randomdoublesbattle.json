@@ -506,7 +506,7 @@
   "Shuckle": {"level": 88, "abilities": ["Solid Rock", "Sturdy"], "items": ["Mental Herb", "Sitrus Berry"], "moves": ["Guard Split", "Helping Hand", "Knock Off", "Stealth Rock", "Sticky Web", "Toxic"]},
   "Sigilyph": {"level": 85, "abilities": ["Magic Guard"], "items": ["Life Orb"], "moves": ["Air Slash", "Heat Wave", "Protect", "Psychic", "Tailwind"], "evs": {"atk": 0}, "ivs": {"atk": 0}},
   "Silvally": {"level": 88, "abilities": ["Battle Armor"], "items": ["Assault Vest", "Sitrus Berry"], "moves": ["Crunch", "Explosion", "Flamethrower", "Multi-Attack", "Protect", "Tailwind"]},
-  "Silvally-Bug": {"level": 88, "abilities": ["Battle Armor"], "items": ["Assault Vest", "Sitrus Berry"], "moves": ["Flamethrower", "Multi-Attack", "Psychic Fangs", "Tailwind", "U-turn"]},
+  "Silvally-Bug": {"level": 88, "abilities": ["Battle Armor"], "items": ["Sitrus Berry"], "moves": ["Flamethrower", "Multi-Attack", "Psychic Fangs", "Tailwind", "U-turn"]},
   "Silvally-Dark": {"level": 88, "abilities": ["Battle Armor"], "items": ["Sitrus Berry"], "moves": ["Iron Head", "Multi-Attack", "Psychic Fangs", "Swords Dance", "Tailwind"]},
   "Silvally-Dragon": {"level": 88, "abilities": ["Battle Armor"], "items": ["Sitrus Berry"], "moves": ["Fire Fang", "Iron Head", "Multi-Attack", "Swords Dance", "Tailwind"]},
   "Silvally-Electric": {"level": 88, "abilities": ["Battle Armor"], "items": ["Assault Vest", "Sitrus Berry"], "moves": ["Flamethrower", "Grass Pledge", "Ice Beam", "Multi-Attack", "Tailwind"]},
