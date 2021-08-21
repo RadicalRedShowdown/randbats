@@ -327,7 +327,7 @@
   "Lurantis": {"level": 88, "abilities": ["Contrary"], "items": ["Sitrus Berry"], "moves": ["Defog", "Knock Off", "Leaf Storm", "Protect", "Superpower"]},
   "Luvdisc": {"level": 88, "abilities": ["Soul-Heart", "Swift Swim"], "items": ["Life Orb"], "moves": ["Dazzling Gleam", "Hydro Pump", "Ice Beam", "Protect", "Scald"], "evs": {"atk": 0}, "ivs": {"atk": 0}},
   "Luxray": {"level": 88, "abilities": ["Intimidate"], "items": ["Life Orb"], "moves": ["Crunch", "Play Rough", "Protect", "Superpower", "Zing Zap"]},
-  "Lycanroc": {"level": 88, "abilities": ["Sand Rush"], "items": ["Choice Band", "Life Orb", "Sitrus Berry"], "moves": ["Accelerock", "Close Combat", "Precipice Blades", "Protect", "Rock Slide", "Swords Dance"]},
+  "Lycanroc": {"level": 88, "abilities": ["Sand Rush"], "items": ["Choice Band", "Life Orb", "Sitrus Berry"], "moves": ["Accelerock", "Close Combat", "Drill Run", "Protect", "Rock Slide", "Swords Dance"]},
   "Lycanroc-Dusk": {"level": 82, "abilities": ["Tough Claws"], "items": ["Choice Band", "Life Orb", "Sitrus Berry"], "moves": ["Accelerock", "Close Combat", "Drill Run", "Protect", "Rock Slide", "Swords Dance"]},
   "Lycanroc-Midnight": {"level": 88, "abilities": ["No Guard"], "items": ["Choice Band", "Choice Scarf", "Life Orb", "Sitrus Berry"], "moves": ["Close Combat", "Iron Tail", "Precipice Blades", "Protect", "Stone Edge", "Sucker Punch", "Swords Dance"]},
   "Machamp": {"level": 87, "abilities": ["Guts"], "items": ["Flame Orb"], "moves": ["Bullet Punch", "Close Combat", "Facade", "Knock Off", "Protect"]},
