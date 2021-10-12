@@ -63,7 +63,7 @@
   "Blaziken-Mega": {"level": 76, "abilities": ["Speed Boost"], "items": ["Blazikenite"], "moves": ["Close Combat", "Heat Wave", "Knock Off", "Protect", "Work Up"]},
   "Blissey": {"level": 80, "abilities": ["Healer"], "items": ["Sitrus Berry"], "moves": ["Protect", "Seismic Toss", "Soft-Boiled", "Thunder Wave", "Toxic"], "evs": {"atk": 0}, "ivs": {"atk": 0}},
   "Boltund": {"level": 88, "abilities": ["Strong Jaw"], "items": ["Life Orb", "Sitrus Berry"], "moves": ["Crunch", "Fire Fang", "Nuzzle", "Play Rough", "Protect", "Psychic Fangs", "Snarl", "Thunder Fang"]},
-  "Bouffalant": {"level": 88, "abilities": ["Bull Rush", "Reckless", "Sap Sipper"], "items": ["Sitrus Berry"], "moves": ["Close Combat", "Head Charge", "Protect", "Wild Charge"]},
+  "Bouffalant": {"level": 88, "abilities": ["Reckless"], "items": ["Sitrus Berry"], "moves": ["Close Combat", "Head Charge", "Protect", "Wild Charge"]},
   "Braviary": {"level": 86, "abilities": ["Defiant"], "items": ["Sitrus Berry"], "moves": ["Brave Bird", "Close Combat", "Protect", "Roost", "Tailwind"], "evs": {"hp": 81}},
   "Breloom": {"level": 81, "abilities": ["Technician"], "items": ["Life Orb", "Sitrus Berry"], "moves": ["Bullet Seed", "Mach Punch", "Protect", "Rock Tomb", "Spore"]},
   "Bronzong": {"level": 86, "abilities": ["Levitate"], "items": ["Sitrus Berry"], "moves": ["Body Press", "Explosion", "Gyro Ball", "Protect", "Toxic", "Trick Room"], "evs": {"spe": 0}, "ivs": {"spe": 0}},
