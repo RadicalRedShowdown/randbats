@@ -419,7 +419,7 @@ var GEN8RANDOMBATTLE = {
   "Oricorio-Pa'u": { level: 88, abilities: [ 'Dancer' ], items: [ 'Heavy-Duty Boots', 'Leftovers' ], moves: [ 'Hurricane', 'Quiver Dance', 'Revelation Dance', 'Roost' ], evs: { atk: 0 }, ivs: { atk: 0 } },
   'Oricorio-Pom-Pom': { level: 88, abilities: [ 'Dancer' ], items: [ 'Heavy-Duty Boots', 'Leftovers' ], moves: [ 'Hurricane', 'Quiver Dance', 'Revelation Dance', 'Roost' ], evs: { atk: 0 }, ivs: { atk: 0 } },
   'Oricorio-Sensu': { level: 88, abilities: [ 'Dancer' ], items: [ 'Heavy-Duty Boots', 'Leftovers' ], moves: [ 'Hurricane', 'Quiver Dance', 'Revelation Dance', 'Roost' ], evs: { atk: 0 }, ivs: { atk: 0 } },
-  Pachirisu: { level: 88, abilities: [ 'Prankster', 'Volt Absorb' ], items: [ 'Leftovers', 'Light Clay' ], moves: [ 'Light Screen', 'Nuzzle', 'Reflect', 'Super Fang', 'Toxic', 'U-turn' ], evs: { atk: 0 }, ivs: { atk: 0 } },
+  Pachirisu: { level: 88, abilities: [ 'Prankster' ], items: [ 'Leftovers', 'Light Clay' ], moves: [ 'Light Screen', 'Nuzzle', 'Reflect', 'Super Fang', 'Toxic', 'U-turn' ], evs: { atk: 0 }, ivs: { atk: 0 } },
   Palkia: { level: 76, abilities: [ 'Pressure' ], items: [ 'Assault Vest', 'Chesto Berry', 'Choice Scarf', 'Choice Specs', 'Leftovers' ], moves: [ 'Draco Meteor', 'Dragon Tail', 'Fire Blast', 'Hydro Pump', 'Rest', 'Spacial Rend', 'Surf', 'Thunder', 'Toxic' ], evs: { atk: 0 }, ivs: { atk: 0 } },
   Palossand: { level: 88, abilities: [ 'Sand Veil', 'Water Compaction' ], items: [ 'Leftovers' ], moves: [ 'Scorching Sands', 'Shadow Ball', 'Shore Up', 'Stealth Rock' ], evs: { atk: 0 }, ivs: { atk: 0 } },
   Pangoro: { level: 85, abilities: [ 'Iron Fist', 'Mold Breaker' ], items: [ 'Choice Band' ], moves: [ 'Bullet Punch', 'Drain Punch', 'Gunk Shot', 'Sucker Punch', 'Wicked Blow' ] },
